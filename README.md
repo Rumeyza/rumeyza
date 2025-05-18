@@ -1,5 +1,10 @@
-## Hi there 👋
 
+I am an experienced Software Engineer with a strong academic and professional foundation in computer vision, image processing, and AI,
+complemented by hands-on experience in cloud-native development. Currently contributing to Microsoft Cloud for Industries, where I
+build scalable data pipelines and intelligent systems using Azure services. My background includes a Master's degree focused on
+computer vision and extensive work in image and video processing during both academic and industry projects. Proficient in Python
+and modern machine learning frameworks, with a deep understanding of algorithm optimization for performance and efficiency. Skilled
+in developing robust, production-ready software in collaborative, cross-functional engineering environments.
 <!--
 **Rumeyza/rumeyza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
